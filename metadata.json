@@ -1,0 +1,6 @@
+{
+  "name": "NeuraforgeAI",
+  "description": "Cognitive motivational audio marketing, smart venue automation, seismic emergency evacuation guidance, and Orion network sentinel console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
